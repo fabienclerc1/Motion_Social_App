@@ -1,8 +1,6 @@
 # Motion React App Version 0.2
 
-This app is a group project developped in one week during the Full-Stack Bootcamp at Propulsion Academy Zürich.
-
-The goal was to build a social network app where users can publish posts (text and images), comment, like and share other posts.
+The goal of this project was to build a social network app where users can publish posts (text and images), comment, like and share other posts.
 Users can also follow others people and send friend requests. It is then possible for them to sort posts based on the people they follow or by friends.
 
 The frontend is developped with React.js, Redux, React Router, Styled Components, Axios and other packages. Most components are functional component using React Hooks.
