@@ -5,8 +5,8 @@ This app is a group project developped in one week during the Full-Stack Bootcam
 The goal was to build a social network app where users can publish posts (text and images), comment, like and share other posts.
 Users can also follow others people and send friend requests. It is then possible for them to sort posts based on the people they follow or by friends.
 
-This app is developped with React.js, Redux, React Router, Styled Components, Axios and other packages.
-Most components are functional component using React Hooks.
+The frontend is developped with React.js, Redux, React Router, Styled Components, Axios and other packages. Most components are functional component using React Hooks.
+The backend is built with Django, Django REST and the database in the Docker deployment is using PostgreSQL.
 
 ## Features of the frontend app
 
